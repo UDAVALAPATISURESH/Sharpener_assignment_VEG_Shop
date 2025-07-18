@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>VEG Shop</title>
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    </head>
+<body>
+    <h1 style="text-align: center;">VEG SHOP</h1>
+    <form id="itemForm">
+        <label>Name:</label>
+        <input type="text" id="name" placeholder="ex - Potato" required/><br><br>
+        <label>Price: </label>
+        <input type="number" id="price" placeholder="0" required/><br><br>
+        <label>Quantity: </label>
+        <input type="number" id="quantity" placeholder="0" required/><br><br>
+        <button type="submit">ADD TO SHOP</button>
+    </form>
+    
+    <div id="itemList"></div>
+    <div>
+        <h1 class="total" id="total">Total: 0</h1>
+    </div>
+    <script src="script.js"></script>
+  
+</body>
+</html>
