@@ -16,8 +16,23 @@ This is a basic vegetable shop project created using **HTML**, **JavaScript**, a
 
 ---
 
-## 🎬 Demo Video
+## Video Step by step Creation
 
 📹 Watch the full walkthrough on YouTube:  
     https://youtu.be/D8LmQwzmX1w
+## 📂 Project Structure
+📁 Sharpener_assignment_VEG_Shop/
+├── 📁 whithout API/
+│ ├── index.html
+│ └── script.js
+├── README.md
+├── index.html
+└── script.js
+
+🙋‍♂️ About Me
+Suresh Udavalapati
+📞 +91 79978 54712
+📧 luckysuresh494@gmail.com
+🔗 https://www.linkedin.com/in/udavalapati-suresh/
+🌐 https://udavalapati-suresh.netlify.app/
 
