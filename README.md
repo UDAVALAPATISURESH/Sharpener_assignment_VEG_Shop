@@ -21,12 +21,19 @@ This is a basic vegetable shop project created using **HTML**, **JavaScript**, a
 📹 Watch the full walkthrough on YouTube:  
     https://youtu.be/D8LmQwzmX1w
 ## 📂 Project Structure
+
 📁 Sharpener_assignment_VEG_Shop/
+
 ├── 📁 whithout API/
+
 │ ├── index.html
+
 │ └── script.js
+
 ├── README.md
+
 ├── index.html
+
 └── script.js
 
 🙋‍♂️ About Me
