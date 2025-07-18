@@ -32,7 +32,10 @@ This is a basic vegetable shop project created using **HTML**, **JavaScript**, a
 🙋‍♂️ About Me
 Suresh Udavalapati
 📞 +91 79978 54712
+
 📧 luckysuresh494@gmail.com
+
 🔗 https://www.linkedin.com/in/udavalapati-suresh/
+
 🌐 https://udavalapati-suresh.netlify.app/
 
